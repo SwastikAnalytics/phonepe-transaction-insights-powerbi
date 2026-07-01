@@ -282,11 +282,11 @@ PhonePe-Transaction-Insights-Dashboard
 
 # 🖼 Dashboard Screenshot
 
-```
+
 
 <img src="image/Dashboard.png" alt="Project Architecture" width="1000">
 
-```
+
 
 # 🚀 Future Enhancements
 
