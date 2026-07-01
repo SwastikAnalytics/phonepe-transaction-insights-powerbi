@@ -305,13 +305,13 @@ PhonePe-Transaction-Insights-Dashboard
 
 **Swastik Kumar**
 
-Computer Engineering Student
+**B.E. Computer Engineering**
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
+**Data Analyst | Excel | SQL | Power BI | Python |**
 
-GitHub: 
+GitHub: https://github.com/SwastikAnalytics
 
-LinkedIn: https://linkedin.com/in/YourLinkedInUsername
+linkedin: https://www.linkedin.com/in/swastik-kumar-01sep
 
 ---
 
