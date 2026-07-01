@@ -284,7 +284,7 @@ PhonePe-Transaction-Insights-Dashboard
 
 ```
 
-<img src="images/your-image-name.png" alt="Project Architecture" width="500">
+<img src="image/Dashboard.png" alt="Project Architecture" width="1000">
 
 ```
 
@@ -309,10 +309,10 @@ Computer Engineering Student
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-GitHub: https://github.com/YourGitHubUsername
+GitHub: 
 
 LinkedIn: https://linkedin.com/in/YourLinkedInUsername
 
 ---
 
-## ⭐ If you found this project useful, don't forget to Star this repository!
+
